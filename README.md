@@ -1,4 +1,4 @@
-# Report Spam message detector
+# Spam message detector
 Keras
 
 # Spam Filter 1
